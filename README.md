@@ -1,4 +1,4 @@
-# Sendy Extended PHP API Wrapper
+# Sendy Extended PHP API Wrapper.
 
 Easily integrate Sendy into other applications with this extended PHP wrapper for the [Sendy API](https://sendy.co/api). This class provides methods to access Sendy's official API via cURL as well as methods to access the Sendy MySQL database directly for additional functionality.
 
